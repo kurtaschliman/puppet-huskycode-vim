@@ -2,7 +2,7 @@
   "author": "huskycode",
   "checksums": {
     "LICENSE": "011f8e10e76bbce5f7136b17a4eda132",
-    "manifests/rc.pp": "ece8b30438fa3514368a2a54f4ec5df8",
+    "manifests/rc.pp": "b24a0cf8bad246fbb6bd75c5b6b79032",
     "manifests/plugin.pp": "da2558268ec71f0c32a684d0a6c873b3",
     "manifests/init.pp": "912efcdd90e3825020ac4cb06e3175dc",
     "README": "de1f9af34905fa9806ad7b024155c120",
